@@ -1,26 +1,26 @@
 body {width: 33%}
-.buttonRes {
+.resContainer {
 	background-color: lightgray;
 	border: solid;
 	height: 48px;
 	font-size: 20px;
 }
-.buttonContainer {
+.btns {
 	width: 25%;
 	height: 36px;
 	font-size: 18px;
 	margin: 0px;
 	float: left;
 }
-.buttonContainer > .buttonDigit {
+.buttonDigit {
 	background-color: lightgreen;
 	color: brown;
 }
-.buttonContainer > .buttonAction {
+.buttonAction {
 	background-color: darkgreen;
 	color: white;
 }
-.buttonContainer > .buttonOperation {
+.buttonOperation {
 	background-color: black;
 	color: red;
 }
