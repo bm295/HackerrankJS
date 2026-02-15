@@ -15,4 +15,4 @@ npm start
 - Buttons Grid
 - Counter Button
 
-Legacy JavaScript challenge files are preserved in the repository root and original subfolders.
+Legacy JavaScript challenge files are preserved under `src/legacy` and remaining original challenge folders.
