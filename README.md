@@ -1,4 +1,18 @@
-# 12 August 2020
->"His speech was filled with familiar platitudes about the value of hard work and dedication."
+# HackerRank JS (Angular 19)
 
-Merriam-Webster.
+This repository has been converted into an Angular 19 standalone application.
+
+## Getting started
+
+```bash
+npm install
+npm start
+```
+
+## Available challenge views
+
+- Binary Calculator
+- Buttons Grid
+- Counter Button
+
+Legacy JavaScript challenge files are preserved in the repository root and original subfolders.
