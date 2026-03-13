@@ -1,9 +1,2 @@
-:root {
-  color-scheme: light;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-body {
-  margin: 0;
-  background: #f5f7fb;
-}
+* { box-sizing: border-box; }
+body { margin: 0; background: #f8fafc; }
